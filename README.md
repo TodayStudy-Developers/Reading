@@ -11,7 +11,7 @@
 | 1 | 클린 아키텍쳐 |  |  |
 
 
-## 스터디원
+## 😶 스터디원
 | 김형석 | 김민송 | 이명지 | 
 | :--------: | :--------: | :--------: |
 | <Img src = "https://avatars.githubusercontent.com/u/102458207?v=4"  width="200" height="200"> | <Img src = "https://avatars.githubusercontent.com/u/124889931?v=4"  width="200" height="200"> | <Img src = "https://avatars.githubusercontent.com/u/109843103?v=4"  width="200" height="200"> |
